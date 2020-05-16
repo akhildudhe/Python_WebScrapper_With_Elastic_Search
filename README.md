@@ -14,7 +14,7 @@
 ### Setup Requirement to Run <a href="https://github.com/akhildudhe/Python_WebScrapper_With_Elastic_Search/blob/master/ScrapperProject.ipynb">ScrapperProject.ipynb</a> file
 
 <ol type="number">
-    <li> 3.7  Python version <a href="https://www.anaconda.com/products/individual">Jupyter Notebook</a> with following libraries installed using "pip install library_name" command in conda teminal.</li>
+    <li> 3.7  Python version <a href="https://www.anaconda.com/products/individual">Jupyter Notebook</a> with following libraries installed using "pip install library_name" command in conda teminal.
         <ul>
             <li>BeautifulSoup</li>
             <li>requests</li>
@@ -22,6 +22,7 @@
             <li>threading</li>
             <li>elasticsearch</li>
         </ul>
+        </li>
     <li><a href="https://www.elastic.co/downloads/elasticsearch">Elastic Search Server</a></li>
 </ol>
 
